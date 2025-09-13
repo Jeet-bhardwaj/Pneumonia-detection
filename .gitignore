@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.mo
+*.env
+.env*
+venv/
+ENV/
+.envrc
+
+# Jupyter Notebooks
+
+# VS Code
+.vscode/
+
+# Data
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.json
+*.xml
+*.yaml
+*.yml
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tiff
+*.tif
+
+# Archives
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+
+archive.zip
+
+# System
+.DS_Store
+Thumbs.db
+
+# TensorFlow/Keras
+checkpoints/
+*.h5
+*.pb
+*.ckpt
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore chest_xray/__MACOSX/
+chest_xray/__MACOSX/
+chest_xray/
